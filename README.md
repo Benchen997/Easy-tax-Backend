@@ -1,4 +1,4 @@
-# Easy-Taxt Backend
+# Easy-Tax Backend
 
 Welcome to the Easy-Tax Backend repository. This project is part of the Easy-Taxt web application designed to calculate individual income tax based on user input. The backend handles the business logic and serves the API for the frontend to interact with.
 
